@@ -13,3 +13,10 @@ Sample contracts for AnnChain.
 | Contact Type       | File Name |
 | ------------------ | --------- |
 | Multisignature     | Multisig  |
+
+## KV Storage
+
+| Contact Type      | File Name |
+| ----------------- | --------- |
+| Key-Value Storage | KV        |
+
